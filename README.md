@@ -65,4 +65,4 @@ files to display predictions.
 
 ## Streamlit App Link
 
-Add your deployed Streamlit Community Cloud URL here after deployment.
+https://gayathri692-ml-classification-assignment-2-app-zdtw47.streamlit.app/
