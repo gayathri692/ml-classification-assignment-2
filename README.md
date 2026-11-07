@@ -20,7 +20,7 @@ The provided `wdbc.data` and `wdbc.names` are included with the project.
 
 ## GitHub Repository Link
 
-Add your GitHub repository URL here after creating and pushing your repository.
+https://github.com/gayathri692/ml-classification-assignment-2
 
 ## Models Used and Evaluation
 
