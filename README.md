@@ -52,9 +52,9 @@ sentence or two in the final column for each row.
 ## Run Locally
 
 ```bash
-python -m pip install -r requirements.txt
-python explore_dataset.py
-python train_models.py
+python3 -m pip install -r requirements.txt
+python3 explore_dataset.py
+python3 train_models.py
 streamlit run app.py
 ```
 
